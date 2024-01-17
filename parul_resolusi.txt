@@ -3,4 +3,4 @@ PARUL_RESOLUSI
 2. Menjadi lebih baik lagi
 3. Kurus(Opsional)
 4. Belajar yg banyak tentang software enginerr
-5.
+5. Belajar MQTT
